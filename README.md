@@ -5,9 +5,9 @@ IDE:2017 IDEA
 项目截图如下  
   
 
-[1]:/img/1.png
-[2]:/img/2.jpg
-[3]:/img/3.png
+[1]:raw/master/img/1.png
+[2]:master/img/2.jpg
+[3]:/raw/master/img/3.png
 [4]:/img/4.jpg
 
 
